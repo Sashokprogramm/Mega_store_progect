@@ -1,0 +1,161 @@
+body{
+	background: #000000;
+	margin: 0;
+	padding: 0;
+    font-family: 'Sora', sans-serif;
+}
+.header{
+	width: 664px;
+    height: 576px;
+    background: #FFFFFF;
+    box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+.question{
+	width: 478px;
+    height: 24px;
+	padding: 40px 20px;
+	font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+}
+.data{
+	margin: -34px 18px;
+	font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+.form-container1 input{
+	width: 200px;
+    height: 48px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+}
+.form-container1{
+	display: flex;
+	justify-content: center;
+	padding-top: 40px;
+}
+.family{
+	padding-right: 8px;
+}
+.name{
+	padding-right: 8px;
+}
+input::placeholder{
+	font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #DADADA;
+    padding-left: 10px;
+}
+.pasport{
+	padding-left: 18px;
+	letter-spacing: 0.5px;
+}
+.hb{
+	width: 200px;
+    height: 48px;
+    box-sizing: border-box;
+    border: 0.5px solid #AEAEAE;
+    border-radius: 8px;
+    opacity: 0.5;
+}
+.place{
+	width: 408px;
+	height: 48px;
+	border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    opacity: 0.5;
+}
+.form-container2{
+	display: flex;
+	justify-content: center;
+}
+.place-box{
+	padding-left: 8px;
+
+}
+.form-container3 input{
+	width: 200px;
+    height: 48px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+}
+.form-container3{
+	display: flex;
+	justify-content: center;
+	padding-top: 16px;
+}
+.number{
+	padding-right: 8px;
+    webkit
+}
+.inn{
+	padding-right: 8px;
+}
+.form-container4 input{
+	width: 200px;
+    height: 48px;
+    border-radius: 8px;
+    opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+}
+.form-container4{
+	display: flex;
+	justify-content: center;
+	padding-top: 16px;
+}
+.contact{
+	padding-right: 8px;
+}
+.email{
+	padding-right: 8px;
+}
+.place-box-hold-in{
+	width: 408px;
+	height: 48px;
+	border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    opacity: 0.5;
+}
+.place-box-hold{
+	padding: 16px 24px;
+}
+button{
+    width: 384px;
+    height: 48px;
+    background-color: #232529;
+    border: 0;
+    border-radius: 4px;
+    margin: 30px 140px ;
+ 
+}
+a{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    color: white;    
+}
+input{
+    padding-left: 15px;
+    font-size: 14px;
+
+}
+
+	

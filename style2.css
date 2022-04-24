@@ -1,0 +1,83 @@
+body{
+	background: #000000;
+	margin: 0;
+	padding: 0;
+    font-family: 'Sora', sans-serif;}
+.header{
+    margin: 0 auto;
+    margin-top: 200px;
+	width: 590px;
+    height: 274px;
+    background: #FFFFFF;
+    border-radius: 5px;
+
+
+}
+h4{
+    justify-content: center;
+    display: flex;
+    padding-top: 30px;
+	font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 20px;
+    height:24px ;
+}
+.number{
+    margin-top: -15px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #A9A9A9;
+
+}
+input{
+    width: 48px;
+    height: 48px;
+    background: #FFFFFF;
+    border: 0.5px solid #DADADA;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+.form{
+    display: inline-block;
+    padding-right: 8px;
+
+}
+.form-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px
+
+}
+input::placeholder{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    padding: 30px 15px;
+    color: #141414;
+}
+button{
+    width: 384px;
+    height: 48px;
+    background-color: #000000;
+    border: 0;
+    border-radius: 4px;
+    margin: 28px 101px;
+}
+a{
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: 1px;
+    color: white;    
+}
+
+
